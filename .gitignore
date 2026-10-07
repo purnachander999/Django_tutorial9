@@ -1,0 +1,14 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Django specific
+*.log
+local_settings.py
+db.sqlite3
+media/
+static_collected/
+__pycache__/
+*.py[cod]
